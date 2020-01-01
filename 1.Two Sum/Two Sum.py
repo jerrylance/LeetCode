@@ -1,4 +1,4 @@
-# Leetcode Solution
+# LeetCode Solution
 # Zeyu Liu
 # 2019.12.31
 # 1.Two Sum
