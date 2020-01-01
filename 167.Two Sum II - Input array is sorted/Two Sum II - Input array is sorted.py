@@ -1,3 +1,8 @@
+# LeetCode Solution
+# Zeyu Liu
+# 2019.1.1
+# 167.Two Sum II - Input array is sorted
+
 from typing import List
 # method 1
 # 哈希(速度快，结果好)
