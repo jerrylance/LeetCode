@@ -1,3 +1,8 @@
+# Leetcode Solution
+# Zeyu Liu
+# 2019.12.31
+# 1.Two Sum
+
 # method 1
 # 暴力
 from typing import List
